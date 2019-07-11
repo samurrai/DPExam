@@ -1,0 +1,7 @@
+C:\Users\ШадикьянР\source\repos\DPExam\DPExam\bin\Debug\DPExam.exe.config
+C:\Users\ШадикьянР\source\repos\DPExam\DPExam\bin\Debug\DPExam.exe
+C:\Users\ШадикьянР\source\repos\DPExam\DPExam\bin\Debug\DPExam.pdb
+C:\Users\ШадикьянР\source\repos\DPExam\DPExam\obj\Debug\DPExam.csprojAssemblyReference.cache
+C:\Users\ШадикьянР\source\repos\DPExam\DPExam\obj\Debug\DPExam.csproj.CoreCompileInputs.cache
+C:\Users\ШадикьянР\source\repos\DPExam\DPExam\obj\Debug\DPExam.exe
+C:\Users\ШадикьянР\source\repos\DPExam\DPExam\obj\Debug\DPExam.pdb
